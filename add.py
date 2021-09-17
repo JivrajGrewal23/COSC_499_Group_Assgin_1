@@ -1,4 +1,3 @@
-
 print('Enter 2 numbers')
 
 x = input()
@@ -9,6 +8,7 @@ print('The sum of the numbers is ',  add)
 
 
 sub = int(x) - int(y)
+
 print('your first number minus your second number equals', sub)
 
 div = int(x)/int(y)
